@@ -1,0 +1,117 @@
+
+
+@media only screen and (min-width: 992px){
+    .sicon {
+        right: 5px;
+      }
+}
+@media only screen and (min-width: 1200px){
+    .sicon {
+        right: 25px;
+      }      
+}
+
+@media only screen and (max-width: 992px){
+    .slicknav_menu {
+        display: block;
+      }
+      nav ul{
+        display: none;
+      }
+      .social_icons ul {
+        text-align: left;
+      }
+      .search_box {
+        margin-top: 16px;
+        width: 250px;
+        float: right;
+      }
+}
+
+@media only screen and (max-width: 768px){
+    .social_icons ul {
+        text-align: left;
+      }
+      .search_box {
+        margin-top: -44px;
+        width: 400px;
+        float: right;
+      }
+      .search_box input[type="search"] {
+        padding: 5px;
+        width: 100%;
+      }
+      .sicon {
+        right: 6px;
+      }
+      .bannar_area {
+        padding: 220px;
+      }
+      .our_details {
+        padding: 30px 0px;
+      }
+      .arae_dtails img {
+        height: 250px;
+      }
+      .arae_dtails a h3 {
+        margin-top: 15px;
+        font-size: 20px;
+      }
+      .arae_dtails p {
+        font-size: 14px;
+      }
+      .spacial img {
+        height: 210px;
+      }
+      .spacial h3 {
+        margin-top: 10px;
+        font-size: 20px;
+      }
+      .spacial p {
+        font-size: 14px;
+      }
+      .soundless h3 {
+        margin-top: 15px;
+        font-size: 15px;
+        font-weight: 700;
+      }
+      .footer_text p {
+        font-size: 25px;
+      }
+}
+
+@media only screen and (max-width: 576px) {
+    .social_icons ul {
+        text-align: left;
+      }
+      .search_box {
+        text-align: right;
+        margin-right: 10px;
+        margin-top: -46px;
+      }
+      .search_box input[type="search"] {
+        padding: 5px;
+        width: 70%;
+      }
+      .sicon {
+        right: 2px;
+      }
+      .bannar_area {
+        padding: 150px;
+      }
+      .our_details {
+        padding: 10px 20px;
+      }
+      .arae_dtails img {
+        height: 260px;
+      }
+      .slider_area {
+        padding: 0px 8px;
+      }
+      .spacial img {
+        height: 240px;
+      }
+      .footer_text p {
+        font-size: 20px;
+      }
+}
